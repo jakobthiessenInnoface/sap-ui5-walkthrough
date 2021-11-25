@@ -8,7 +8,7 @@
               showMeasure: false
           }
       }" numberUnit="{view>/currency}" numberState="{= ${invoice>ExtendedPrice} > 50 ? 'Error' : 'Success' }" />
-      <!-- if the ExtendendPrice is greater than 50, then set the numberState to Error, else to Success. Success sets the color to green, Error to red ss!-->
+      <!-- if the ExtendendPrice is greater than 50, then set the numberState to Error, else to Success. Success sets the color to green, Error to red !-->
         </items>
     </List>
 </mvc:View>
