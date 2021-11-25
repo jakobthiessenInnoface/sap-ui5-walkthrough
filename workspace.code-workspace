@@ -1,0 +1,12 @@
+{
+    "folders": [
+		{
+			"path": "..\\..\\sap-ui5-walkthrough"
+		},
+		{
+			"name": "sap-ui5-walkthrough-1",
+			"path": "..\\..\\sap-ui5-walkthrough-1"
+		}
+	],
+    "settings": {}
+}
